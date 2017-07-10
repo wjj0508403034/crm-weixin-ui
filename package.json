@@ -1,0 +1,27 @@
+{
+  "name": "crm-weixin-ui",
+  "version": "1.0.0",
+  "description": "WeiXin UI for CRM",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wjj0508403034/crm-weixin-ui.git"
+  },
+  "keywords": [
+    "CRM",
+    "WeiXin",
+    "UI"
+  ],
+  "author": "wjj0508403034@126.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wjj0508403034/crm-weixin-ui/issues"
+  },
+  "homepage": "https://github.com/wjj0508403034/crm-weixin-ui#readme",
+  "devDependencies": {
+    "weui": "^1.1.2"
+  }
+}
